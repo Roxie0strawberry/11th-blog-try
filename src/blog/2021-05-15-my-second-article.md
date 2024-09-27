@@ -1,19 +1,45 @@
 ---
-title: My Second Article
-author: Kevin Powell
+title: Into the Mind of a Zillennial - Navigating the Space Between Millennials and Gen Z
+author: Roxie Strawberry
 date: 2021-05-15
 tags: ["post", "featured"]
-image: /assets/blog/article-2.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+image: https://roxie0strawberry.com/images/Artboard%2010.png
+imageAlt: Art by Roxie Strawberry
+description: Zillennials are stuck between two worlds—too young to fully relate to Millennials, too old for Gen Z. In this post, I explore the unique experiences of this micro-generation, from dial-up internet nostalgia to navigating a rapidly changing digital world. 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
+What Is a Zillennial?
 
-Nec ultrices dui sapien eget mi proin sed libero enim. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Aliquam id diam maecenas ultricies mi. Faucibus in ornare quam viverra. Nisi est sit amet facilisis magna etiam tempor orci eu. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Cras pulvinar mattis nunc sed. Pharetra et ultrices neque ornare aenean euismod elementum. Urna duis convallis convallis tellus. Donec massa sapien faucibus et. Id faucibus nisl tincidunt eget nullam non. Quam pellentesque nec nam aliquam sem et tortor consequat.
+Urban Dictionary defines Zillennials as "too young to relate to the core of Millennials but too old to relate to the core of Generation Z. They were 2000's kids and transitioned from teenagers to adults during the 2010's." Born in 1996, I find this definition comforting—it gives a name to the micro-generation I belong to. But it also sparked deeper thoughts about our unique experience, what we've lived through, and how understanding this small group can offer key insights into today's market, especially for those aged 20-40.
 
-Ac auctor augue mauris augue neque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Arcu ac tortor dignissim convallis aenean. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Porttitor eget dolor morbi non. Quis lectus nulla at volutpat diam ut venenatis tellus. Ultricies leo integer malesuada nunc vel risus. Facilisis sed odio morbi quis commodo odio aenean.
+Nostalgia: A Core Feeling of Zillennials
+Why is nostalgia such a powerful trend among Millennials and Zillennials today? For us, it’s more than a trend—it's deeply tied to our sense of self. We feel old because we’ve lived through so much change in a relatively short span of time. Zillennials grew up during the dial-up era, where just accessing the internet on our phones could result in a terrifyingly high bill. Those days, as chaotic as they were, now seem simpler.
 
-Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Sit amet cursus sit amet dictum sit amet justo. Euismod lacinia at quis risus sed vulputate odio ut. Malesuada pellentesque elit eget gravida. Diam donec adipiscing tristique risus nec. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit. Porta nibh venenatis cras sed felis eget. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Orci phasellus egestas tellus rutrum. Ac felis donec et odio pellentesque diam volutpat commodo sed. Viverra nam libero justo laoreet sit amet cursus sit amet. Duis at consectetur lorem donec massa sapien faucibus. Et leo duis ut diam quam nulla porttitor massa. Eros donec ac odio tempor. Massa ultricies mi quis hendrerit. Semper quis lectus nulla at volutpat diam ut venenatis.
+This feeling of disconnect between our chronological age and our life experiences resonates across the micro-generation. Many of us have experienced more technological progress by our mid-20s than older generations had in decades.
 
-Urna condimentum mattis pellentesque id nibh tortor id aliquet. Mollis nunc sed id semper risus in. Morbi blandit cursus risus at ultrices mi. Lectus vestibulum mattis ullamcorper velit. Facilisis mauris sit amet massa vitae tortor. Ullamcorper sit amet risus nullam. Nunc sed blandit libero volutpat sed. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Convallis convallis tellus id interdum velit laoreet id. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Non nisi est sit amet facilisis magna etiam tempor. Nisl nunc mi ipsum faucibus vitae.
+The Rapid Evolution of Technology
+Unlike Boomers and Gen X, who encountered technological revolutions in their adulthood, Millennials, Zillennials, and Gen Z have been immersed in it since childhood. Personally, I was 4 years old when I started using a computer with dial-up internet. By 7, I was on Myspace, Facebook, and already burning my own CDs. At 10, I had Wi-Fi and was uploading videos to YouTube.
+
+Now at 25, I live in a smart home, wear a smartwatch that makes me feel like a Power Ranger, and watch Elon Musk develop neural implants. It’s mind-blowing to think that so many of the futuristic concepts we saw in movies and TV shows from the 2000s are now reality. With this accelerated technological growth, it’s easy to feel like we’re living in the future—and to feel old.
+
+Trauma and Global Events: A Zillennial Reality
+On top of technology, we’ve also been shaped by a relentless wave of global events, including:
+
+Y2K panic
+9/11
+The war in the Middle East
+The 2000’s economic recession
+The rise of the internet
+Multiple pandemics: bird flu, swine flu, COVID-19
+Economic fallout from the COVID pandemic
+The Russia-Ukraine war
+These are just the most widely discussed events. The cumulative effect of living through such history, combined with rapid tech evolution, has shaped a generation that is unfazed by large-scale events. Instead, we focus on smaller, more tangible issues.
+
+The Zillennial Mindset: Prioritizing What We Can Control
+It’s clear that many Zillennials are numb to massive world events, and instead focus on what they feel they can impact—mental health, LGBTQIA+ rights, yoga, legalizing weed, and social justice causes. This isn’t because we don’t care about the big picture. It’s because, after years of witnessing global crises unfold with little personal power to change things, we’ve turned our attention to where we can make a difference.
+
+We know climate change is a looming disaster, but we also know we’re unlikely to stop it. So instead, we focus on making life more bearable while we’re here. This approach, shared by many Millennials and Gen Z members alike, highlights our drive to seek control in a world that often feels out of it.
+
+Conclusion: Understanding Zillennials as Key Market Drivers
+
+By understanding the life experiences that have shaped Zillennials, you gain insight into the mindset of the most active market participants today: those aged 20-40. We’re the ones driving trends, creating waves, and setting the pace in everything from tech to culture to social movements. And while the world may be unpredictable, one thing remains certain—Zillennials will keep pushing forward, shaping the future with a blend of nostalgia, pragmatism, and resilience.

@@ -1,19 +1,49 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: Internet Fandoms; Why are they important?
+author: Roxie Strawberry
 date: 2021-05-01
 tags: ["post", "featured"]
-image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+image: https://roxie0strawberry.com/images/kermit%20meme%20cropped%20for%20discord.jpg
+imageAlt: Pixel art Kermit The Frog
+description: Discover how fandoms are reshaping marketing. Engaged, loyal, and trend-setting, these communities drive brand success. Learn tips to cultivate your own fandom.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+Why Fandoms Matter in Marketing: A Guide for Brands
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+Today, especially online, there’s a lot of buzz around fandoms. These passionate groups of fans are becoming increasingly important to marketers, but why?
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+We all know what it’s like to be a fan. Whether it’s a celebrity, movie, TV show, or football team, we’ve all found something we don’t just like—we love. But even now, there’s still a tendency to associate fans with the word “fanatic,” which carries negative connotations.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+However, being a fan doesn’t mean being obsessed or irrational. Most fans are engaged, positive, and proactive supporters of what they love.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+Fans are the ones who proudly wear team jerseys, spend extra money on special Blu-ray editions, and camp out for concert tickets. They don’t just like something—they actively show their support, both personally and financially.
+
+Let’s be real for a second: How many casual consumers (who aren’t influencers) do you see passionately creating and sharing content for brands or products? Not many. The people driving trends and making posts go viral are the dedicated fans, the ones constantly checking socials for new updates, likes, and dislikes. They’re the trendsetters.
+
+See why they’re so valuable? Engaging fandoms not only gives you loyal promoters, but also enthusiastic consumers who will make sure your marketing material gets shared far and wide.
+
+So how can you cultivate your own fandom? Here are three tips:
+
+1. Find Your Niche of Fanatics
+First off, don’t get weird. No one’s going to build a fandom for a baby brand with edgy memes and deep-fried humor. You need to research your niche carefully and find the right communities to tap into.
+
+Take the baby brand example—target niches like breastfeeding moms, gentle parenting advocates, or alternative parenting groups. Research the most vocal online communities that align with your brand’s values, and you’ll find your people.
+
+2. Create Content with Value
+In the age of ad overload, traditional ads have lost their impact, especially with Gen Z and Millennials. What’s the solution? Make ads that are more than just ads. This is a core principle of Frictionless Marketing.
+
+Think about it—would you scroll past a fun and interesting ad if it showed up in your feed as more then just an ad, but actual content? If you’re too close to the brand, try showing it to a friend for feedback. Aim to entertain, not just promote.
+
+3. Speak Their Language
+If you’re B2B, this is different, but if you’re talking to people, speak their language. Why are you writing like you’re drafting a thesis? Speak internet, queen.
+
+For example, let’s say you’re marketing for a game studio. Scroll through other game dev accounts, and you’ll see phrases like “beta game,” “alpha release,” “crunch time,” “debugging,” and so on. Learn the lingo, and you’ll become part of the community, eventually pulling them into your own.
+
+4. Listen to Your Fandom
+As your community grows, they’ll start giving you feedback—sometimes even without realizing it. They might not be marketing experts (unless that’s your niche), but they know what they want. Don’t follow them blindly, but take the time to understand their needs and values.
+
+Pay attention to what they post and share. What’s important to them? The answers will guide you in creating content that resonates.
+
+This was just a taste of how fandoms and Frictionless Marketing can benefit your brand. Want more? Shout us out on socials!
+
+Roxie Strawberry Linhares

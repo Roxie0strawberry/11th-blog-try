@@ -1,19 +1,35 @@
 ---
-title: My Fifth Article
-author: Kevin Powell
-date: 2021-06-15
+title: Starting an Indie Game Studio - Passion, Strategy, and the Art of Frictionless Media
+author: Roxie Strawberry
+date: 2024-06-15
 tags: ["post", "featured"]
-image: /assets/blog/article-5.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+image: https://ugs.pt/images/Logo_8.png
+imageAlt: Untitled Game Studios logo
+description: You don't need a ton of money to start a game studio—just passion, time, and strategy. Here's how Untitled Game Studios turned ideas into reality.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.
+In 2019, long before the pandemic reshaped the world, Untitled Game Studios (UGS) was born, not out of funding or a fancy business plan, but from pure passion and creativity. Fresh out of college and eager to make our mark in game design, my co-founder, Kaado, and I realized that we didn’t need big investors to start making games. What we needed was time, patience, and the willingness to embrace the power of frictionless media.
 
-Amet est placerat in egestas erat imperdiet sed euismod. Elementum pulvinar etiam non quam. Pharetra convallis posuere morbi leo urna molestie. Varius duis at consectetur lorem donec massa. Id semper risus in hendrerit gravida rutrum quisque. Adipiscing elit pellentesque habitant morbi tristique senectus. Tortor pretium viverra suspendisse potenti. Aenean et tortor at risus viverra adipiscing at in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Eu augue ut lectus arcu bibendum at varius vel pharetra. Facilisis magna etiam tempor orci eu. Habitant morbi tristique senectus et. Eu facilisis sed odio morbi quis commodo. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Nulla posuere sollicitudin aliquam ultrices sagittis. At imperdiet dui accumsan sit amet nulla. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Tortor id aliquet lectus proin nibh. Tellus at urna condimentum mattis.
+The Early Days
+Like many indie game studios, UGS began with no budget (and kind of still is, lol). We were just a few college friends frustrated with the typical “make money” mentality that surrounded us in our master’s program. We were more interested in the art of storytelling and creating games that we loved. That’s how we got the ball rolling.
 
-Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Accumsan tortor posuere ac ut consequat. Suspendisse sed nisi lacus sed viverra tellus. Amet nulla facilisi morbi tempus. Maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum. Maecenas accumsan lacus vel facilisis volutpat. Fringilla phasellus faucibus scelerisque eleifend. Enim neque volutpat ac tincidunt vitae semper quis. Id eu nisl nunc mi ipsum. Ligula ullamcorper malesuada proin libero nunc. Bibendum at varius vel pharetra vel turpis nunc eget.
+Our first major project, Eksauria, was overly ambitious (as most first projects tend to be) with dragons, gnomes, Daleks, and mind-bending plot twists. But more important than the scale of the game was the realization that we needed to be more than just a team working on a project. We needed a brand, a name, and documentation.
 
-Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Convallis a cras semper auctor. Congue eu consequat ac felis donec et odio. Maecenas ultricies mi eget mauris pharetra. Vel facilisis volutpat est velit egestas dui id ornare. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Lectus nulla at volutpat diam ut venenatis tellus in. Pellentesque massa placerat duis ultricies. Augue eget arcu dictum varius duis at consectetur lorem.
+That’s when the idea of Untitled Game Studios clicked. It wasn’t fancy, but it represented exactly what we were: a group focused on creating games, not marketing gimmicks. It was a move that allowed us to focus our time and energy on making the games we wanted, without getting bogged down by traditional studio pressures.
 
-Felis donec et odio pellentesque diam volutpat commodo. Donec massa sapien faucibus et. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. A diam sollicitudin tempor id eu nisl. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Cursus turpis massa tincidunt dui. Luctus accumsan tortor posuere ac ut consequat semper viverra. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Leo vel fringilla est ullamcorper. Auctor elit sed vulputate mi sit amet mauris. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis.
+Frictionless Media: What It Means and Why It Matters
+What is frictionless media? Essentially, it’s about reducing the barriers to content creation and distribution and most of all NO ADS, no paid promotion. You don’t need to follow traditional rules to start a studio. In our case, we leveraged free tools like Godot for development and hosted live Devlog streams to keep our audience engaged and excited about our projects. The barriers to entry are lower than ever, and you can start building your own indie game studio with just a few friends and the right strategy.
+
+The key to frictionless media is understanding that content is everywhere. Every step of the game development process, from ideation to release, can be turned into engaging media that builds your brand, keeps your audience informed, and, most importantly, builds anticipation for your games.
+
+For example, our Devlog streams didn’t just serve as progress updates; they became opportunities to build community, receive feedback, and gain support—all while creating consistent content for our brand.
+
+From Eksauria to Droian: Building a Game That Matters
+After Eksauria, we began work on Redrun, a Halloween-themed game jam-style project that eventually grew bigger than we ever anticipated. But it wasn’t until Droian — a game we initially started out of desperation — that we truly found our footing. With Droian, we learned the importance of focus and intentional design.
+
+What started as a small, focused project has turned into something that we are incredibly proud of a game that is sharp, professional, and full of heart. We’ve been developing Droian ever since, and we’re closer than ever to releasing our first full game. Along the way, we’ve shared the process with our community, turning each step of development into engaging content through our website and Devlogs.
+
+You Don’t Need Money. Just Time and Strategy
+The lesson we’ve learned in this journey is simple: You don’t need a ton of money to start an indie game studio. What you need is passion, time, and strategy. Leverage the tools that are available for free or at low cost. Use frictionless media to your advantage. Turn every step of your process into content that connects with your audience, and most importantly, stay true to why you started in the first place—to make the games you love.
+
+To learn more about the process of starting Untitled Game Studios, check out our full video <a href="https://www.youtube.com/watch?v=kO2XV_StIck">here</a>, and don’t forget to visit our <a href="https://ugs.pt">website</a> for more updates on our games and ongoing projects.
